@@ -17,7 +17,7 @@ This is a display taken in a corridor which is open to the left, has a half open
 
 # 3D printed support/mount
 
-I designed a support mount (LiDARmount.stl) that is Meccano compatible.
+I designed a support mount (LiDARmount.stl) that is Meccano compatible and visible in the main photo above.
 
 # Links
 
