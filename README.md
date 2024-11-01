@@ -1,5 +1,5 @@
 # LiDARtest
-This is a quick confidence check for a Delta-2G LiDAR module that I obtained from AliExpress.
+This is a quick confidence check for a Delta-2G LiDAR module that I obtained from AliExpress. To run the program use "python3 LiDARplot", it defaults to /dev/ttyUSB0 and 115200 baud for the TTL UART device but these can be overriden using the -d and -s flags. e.g. "python3 LiDARplot -d /dev/ttyUSB1 -s 76800"
 
 ![LiDAR picture](images/LiDARunit.jpg)
 
@@ -18,6 +18,8 @@ This is a display taken in a corridor witch is open to the left, has a half open
 # 3D printed support/mount
 
 I designed a support mount (LiDARmount.stl) that is Meccano compatible.
+
+# Links
 
 Please support this and future projects by using these affiliate links.
 
