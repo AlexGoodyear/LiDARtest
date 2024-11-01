@@ -25,3 +25,7 @@ Please support this and future projects by using these affiliate links.
 
 [The Delta 2G LiDAR unit](https://www.aliexpress.com/item/1005004139703179.html?spm=a2g0o.detail.0.0.42e3k4F6k4F6Yr&mp=1/LiDARrange.png)
 The original order said it would take 4 to 5 weeks but it arrived in a week.
+### Wire stripper link
+### Wire crimper link + instructional video link
+### TTL USB module link
+### M2.5 bolts link
