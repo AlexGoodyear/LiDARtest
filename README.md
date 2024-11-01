@@ -9,7 +9,7 @@ It is supplied as a replacement robot vacuum part and comes without any document
 
 ![LiDAR range map](images/LiDARrange.png)
 
-Use the "Scale" to alter the radius of the map measured in metres. Press the "Exit" button to quit the test.
+This is a display taken in a corridor witch is open to the left, has a half open door at the bottom and some soft bags against the bottom wall of the corridor. Use the "Scale" to alter the radius of the map measured in metres. Press the "Exit" button to quit the test. I've managed to test the range to a radius of 7.5 metres but that is the limit of my internal space so it may do more.
 
 # Wiring diagram
 
@@ -21,4 +21,5 @@ I designed a support mount (LiDARmount.stl) that is Meccano compatible.
 
 Please support this and future projects by using these affiliate links.
 
+[The Delta 2G LiDAR unit](https://www.aliexpress.com/item/1005004139703179.html?spm=a2g0o.detail.0.0.42e3k4F6k4F6Yr&mp=1/LiDARrange.png)
 The original order said it would take 4 to 5 weeks but it arrived in a week.
